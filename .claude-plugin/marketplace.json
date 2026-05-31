@@ -1,0 +1,14 @@
+{
+  "name": "paper-cpr-summary",
+  "owner": {
+    "name": "Dusan Baek",
+    "email": "dusanisbaek@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "paper-cpr-summary",
+      "source": "./",
+      "description": "학술 논문을 CPR(Context-Problem-Response) 프레임으로 요약"
+    }
+  ]
+}

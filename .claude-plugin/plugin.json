@@ -1,0 +1,8 @@
+{
+  "name": "paper-cpr-summary",
+  "description": "학술 논문을 CPR(Context-Problem-Response) 프레임으로 요약하는 Claude Code 스킬. The Craft of Research 기반.",
+  "author": {
+    "name": "Dusan Baek",
+    "email": "dusanisbaek@gmail.com"
+  }
+}
