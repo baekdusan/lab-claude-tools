@@ -1,4 +1,13 @@
-# paper-cpr-summary
+# lab-claude-tools
+
+연구실에서 쓰는 Claude Code 플러그인 모음 (마켓플레이스).
+
+현재 수록 플러그인:
+- **paper-cpr-summary** — 학술 논문을 CPR 프레임으로 요약
+
+---
+
+## paper-cpr-summary
 
 학술 논문을 **CPR(Context-Problem-Response) 프레임**으로 요약해주는 Claude Code 스킬입니다.
 
@@ -27,8 +36,8 @@
 Claude Code에서:
 
 ```
-/plugin marketplace add baekdusan/paper-cpr-summary
-/plugin install paper-cpr-summary@paper-cpr-summary
+/plugin marketplace add baekdusan/lab-claude-tools
+/plugin install paper-cpr-summary@lab-claude-tools
 ```
 
 ## 사용 방법
@@ -48,7 +57,7 @@ Claude Code에서:
 스킬 내용을 수정한 뒤 push 하면, 사용자 측에서:
 
 ```
-/plugin marketplace update paper-cpr-summary
+/plugin marketplace update lab-claude-tools
 ```
 
 ## 기여
