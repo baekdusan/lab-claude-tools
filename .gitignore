@@ -1,0 +1,7 @@
+# 빌드 산출물 .pptx는 저장소에 포함하지 않음
+*.pptx
+# 단, 플러그인에 번들된 기본 템플릿은 추적
+!skills/make-slides/assets/template.pptx
+
+# Claude Code 로컬 설정
+.claude/settings.local.json

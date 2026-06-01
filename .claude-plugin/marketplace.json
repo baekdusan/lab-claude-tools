@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "paper-cpr-summary",
+      "name": "research-toolkit",
       "source": "./",
-      "description": "학술 논문을 CPR(Context-Problem-Response) 프레임으로 요약"
+      "description": "연구 워크플로우 도구 모음 — 논문 CPR 요약 + 템플릿 기반 발표자료 생성"
     }
   ]
 }
